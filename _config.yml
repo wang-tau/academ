@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wang Tao / Site Title"
+title                    : "Wang Tao"
 title_separator          : "-"
 name                     : &name "Wang Tao"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Wang Tao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Chongqing"
   employer         : "Southwest University"
   uri              : # URL
