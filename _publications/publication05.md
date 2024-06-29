@@ -1,9 +1,8 @@
 ---
 title: "The negative effect of advertisement signs on consumers' willingness to purchase"
 Author: Jianmin Zeng, Ying He, Xing Ye, Tao Wang, Ziyun Gao
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: [/publication/2009-10-01-paper-title-number-1](https://aws.sbp-journal.com/index.php/sbp/article/view/12288)
 date: 2023-12
 venue: 'Journal 1'
-paperurl: 'files/paper5.pdf'
+paperurl: 'https://wang-tau.github.io/academ/files/paper5.pdf'
 ---
