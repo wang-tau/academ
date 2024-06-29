@@ -1,7 +1,7 @@
 ---
 title: "Social decision-making in major depressive disorder: A three-level meta-analysis"
 author: Tao Wang, Jianmin Zeng, Peiru Peng, Qiao Yin
-permalink: /publication/paper1
+permalink: https://wang-tau.github.io/academ/publication/paper1
 date: 2024-08
 venue: 'Journal'
 paperurl: 'http://wang-tau.github.io/academ/files/paper1.pdf'
