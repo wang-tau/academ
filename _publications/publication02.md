@@ -1,5 +1,5 @@
 ---
-title: "Social decision-making in major depressive disorder: A three-level meta-analysis"
+title: "Right thalamic volume mediates impact of the dopamine beta-hydroxylase gene on the endowment effect"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
