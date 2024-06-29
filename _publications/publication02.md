@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "Right thalamic volume mediates impact of the dopamine beta-hydroxylase gene on the endowment effect"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
